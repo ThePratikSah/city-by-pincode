@@ -1,12 +1,21 @@
 {
   "name": "city-by-pincode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "Pincode",
+    "City Data",
+    "Pincode Directory",
+    "India Pincode"
+  ],
   "author": "Pratik Sah",
-  "license": "ISC",
-  "description": "Package to find data related to a City"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThePratikSah/city-by-pincode.git"
+  },
+  "description": "An NPM Package to find data related to a City with a Pincode"
 }
