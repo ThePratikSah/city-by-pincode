@@ -1,6 +1,6 @@
 {
   "name": "city-by-pincode",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,8 @@
     "Pincode",
     "City Data",
     "Pincode Directory",
-    "India Pincode"
+    "India Pincode",
+    "City by Pincode"
   ],
   "author": "Pratik Sah",
   "license": "MIT",
