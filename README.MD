@@ -9,13 +9,6 @@ const getCityDataByPinCode = require('city-by-pincode');
 
 console.log(getCityDataByPinCode['854326'])
 ```
-## You can also use the function for getting the data of any pincode
-
-```js
-const {getCityDataByPinCode} = require('city-by-pincode');
-
-console.log(getCityDataByPinCode('854301'));
-```
 
 ```bash
 # Exmaple output
